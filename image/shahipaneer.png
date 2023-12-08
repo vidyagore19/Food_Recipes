@@ -1,0 +1,205 @@
+<!doctype html>
+<html>
+<head>
+
+<link rel="preload" as="script">
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit"></script>
+
+
+<link rel="preload" href="/Content/Styles/font-awesome.min.css" as="style">
+<link rel="preload" href="/Content/Styles/swiper.min.css" as="style">
+<link rel="preload" href="/Content/layout/style.css?v=89bce326-9c03-4a7d-8582-9bd4c1b385b6" as="style">
+
+
+<link rel="preload" as="font" href="/Content/layout-shared/layout/fonts/muli/Muli-Bold.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="/Content/layout-shared/layout/fonts/muli/Muli-Italic.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="/Content/layout-shared/layout/fonts/muli/Muli-Light.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="/Content/layout-shared/layout/fonts/muli/Muli-Regular.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="/Content/layout-shared/layout/fonts/muli/Muli-SemiBold.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="/Content/layout-shared/layout/fonts/playfairdisplay/PlayfairDisplay-Regular.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="/Content/layout-shared/layout/fonts/playfairdisplay/PlayfairDisplay-Italic.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="/Content/layout-shared/layout/fonts/playfairdisplay/PlayfairDisplay-Bold.ttf" type="font/ttf" crossorigin="anonymous">
+
+
+<link rel="preload" as="image" imagesrcset="/Content/layout-shared/layout/icons/ta-logo-tamni.svg">
+<link rel="preload" as="image" imagesrcset="/Content/layout-shared/layout/icons/search-black.svg">
+<link rel="preload" as="image" imagesrcset="/Content/layout-shared/layout/icons/profile.svg">
+
+<base href="/">
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0" />
+
+
+<script type="text/javascript">
+
+            window.gdprAppliesGlobally = false; (function () {
+                function a(e) {
+                    if (!window.frames[e]) {
+                        if (document.body && document.body.firstChild) { var t = document.body; var n = document.createElement("iframe"); n.style.display = "none"; n.name = e; n.title = e; t.insertBefore(n, t.firstChild) }
+                        else { setTimeout(function () { a(e) }, 5) }
+                    }
+                } function e(n, r, o, c, s) {
+                    function e(e, t, n, a) { if (typeof n !== "function") { return } if (!window[r]) { window[r] = [] } var i = false; if (s) { i = s(e, t, n) } if (!i) { window[r].push({ command: e, parameter: t, callback: n, version: a }) } } e.stub = true; function t(a) {
+                        if (!window[n] || window[n].stub !== true) { return } if (!a.data) { return }
+                        var i = typeof a.data === "string"; var e; try { e = i ? JSON.parse(a.data) : a.data } catch (t) { return } if (e[o]) { var r = e[o]; window[n](r.command, r.parameter, function (e, t) { var n = {}; n[c] = { returnValue: e, success: t, callId: r.callId }; a.source.postMessage(i ? JSON.stringify(n) : n, "*") }, r.version) }
+                    }
+                    if (typeof window[n] !== "function") { window[n] = e; if (window.addEventListener) { window.addEventListener("message", t, false) } else { window.attachEvent("onmessage", t) } }
+                } e("__tcfapi", "__tcfapiBuffer", "__tcfapiCall", "__tcfapiReturn"); a("__tcfapiLocator"); (function (e, tgt) {
+                    var t = document.createElement("script"); t.id = "spcloader"; t.type = "text/javascript"; t.async = true; t.src = "https://sdk.privacy-center.org/" + e + "/loader.js?target_type=notice&target=" + tgt; t.charset = "utf-8"; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(t, n)
+                })("02757520-ed8b-4c54-8bfd-4a5f5548de98", "xBkfx6iZ")
+            })();</script>
+
+
+<meta property="fb:app_id" content="1827944954195705" />
+<meta name="robots" content="max-image-preview:large">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<title>Shahi Paneer | Traditional Stew From Punjab, India | TasteAtlas</title>
+<meta property="og:title" content="Shahi paneer | Traditional Stew From Punjab | TasteAtlas">
+<meta name="twitter:title" content="Shahi paneer | Traditional Stew From Punjab | TasteAtlas" />
+<link rel="canonical" href="https://www.tasteatlas.com/shahi-paneer" />
+<meta property="og:image" content="https://cdn.tasteatlas.com/images/dishes/ceff65c140064d6285fc3814534a349b.jpg?m=facebook">
+<meta name="twitter:image" content="https://cdn.tasteatlas.com/images/dishes/ceff65c140064d6285fc3814534a349b.jpg?m=facebook" />
+<meta property="og:image:width" content="0">
+<meta property="og:image:height" content="0">
+<meta property="og:description" content=" Originating from India&#39;s Moghul cuisine, shahi paneer is a cheese curry that is prepared with paneer cheese, onions, almond paste, and a rich, spicy tomato-cream sauce. The dish is typically accompanied by Indian breads such as naan, roti, or puri">
+<meta name="twitter:description" content=" Originating from India&#39;s Moghul cuisine, shahi paneer is a cheese curry that is prepared with paneer cheese, onions, almond paste, and a rich, spicy tomato-cream sauce. The dish is typically accompanied by Indian breads such as naan, roti, or puri" />
+<meta name="description" content="Originating from India&#39;s Moghul cuisine, shahi paneer is a cheese curry that is prepared with paneer cheese, onions, almond paste, and a rich, spicy tomato-cream sauce. The dish is typically accompanied by Indian breads such as naan, roti, or puri">
+<script type="application/ld+json">
+                {"@context":"http://schema.org","@type":"NewsArticle","name":null,"description":null,"additionalType":null,"alternateName":null,"disambiguatingDescription":null,"image":["https://www.tasteatlas.com/images/dishes/ceff65c140064d6285fc3814534a349b.jpg","https://www.tasteatlas.com/Images/Dishes/56ff328667ef4dc6a883398c519b9622.jpg","https://www.tasteatlas.com/images/dishes/b3973ad2e83f4e5b8da5770c7c293725.jpg","https://www.tasteatlas.com/Images/Dishes/d7b9612bf7924507a791c1cb2bd98f38.jpg"],"potentialAction":null,"sameAs":null,"url":null,"about":null,"accessibilityAPI":null,"accessibilityControl":null,"accessibilityFeature":null,"accessibilityHazard":null,"accessibilitySummary":null,"accessMode":null,"accessModeSufficient":null,"accountablePerson":null,"aggregateRating":null,"alternativeHeadline":null,"associatedMedia":null,"audience":null,"author":{"@context":"http://schema.org","@type":"Organization","name":"TasteAtlas","description":null,"additionalType":null,"alternateName":null,"disambiguatingDescription":null,"potentialAction":null,"sameAs":null,"url":null,"aggregateRating":null,"alumni":null,"award":null,"contactPoint":null,"department":null,"duns":null,"email":null,"employee":null,"event":null,"faxNumber":null,"founder":null,"foundingLocation":null,"globalLocationNumber":null,"hasOfferCatalog":null,"hasPOS":null,"isicV4":null,"legalName":null,"leiCode":null,"makesOffer":null,"naics":null,"numberOfEmployees":null,"parentOrganization":null,"review":null,"seeks":null,"slogan":null,"subOrganization":null,"taxID":null,"telephone":null,"vatID":null},"award":null,"character":null,"comment":null,"commentCount":null,"contentLocation":null,"contentReferenceTime":null,"copyrightYear":null,"dateModified":"2016-05-04","datePublished":"2016-05-04","discussionUrl":null,"editor":null,"educationalAlignment":null,"educationalUse":null,"encoding":null,"exampleOfWork":null,"hasPart":null,"headline":"Shahi Paneer | Traditional Stew From Punjab, India | TasteAtlas","interactionStatistic":null,"interactivityType":null,"isAccessibleForFree":null,"isFamilyFriendly":null,"isPartOf":null,"keywords":null,"learningResourceType":null,"locationCreated":null,"mainEntity":null,"mentions":null,"offers":null,"publication":null,"publisher":{"@context":"http://schema.org","@type":"Organization","name":"TasteAtlas","description":null,"additionalType":null,"alternateName":null,"disambiguatingDescription":null,"potentialAction":null,"sameAs":null,"url":null,"aggregateRating":null,"alumni":null,"award":null,"contactPoint":null,"department":null,"duns":null,"email":null,"employee":null,"event":null,"faxNumber":null,"founder":null,"foundingLocation":null,"globalLocationNumber":null,"hasOfferCatalog":null,"hasPOS":null,"isicV4":null,"legalName":null,"leiCode":null,"logo":{"@context":"http://schema.org","@type":"ImageObject","name":null,"description":null,"additionalType":null,"alternateName":null,"disambiguatingDescription":null,"potentialAction":null,"sameAs":null,"url":"https://www.tasteatlas.com/content/images/publisher_logo.png","about":null,"accessibilityAPI":null,"accessibilityControl":null,"accessibilityFeature":null,"accessibilityHazard":null,"accessibilitySummary":null,"accessMode":null,"accessModeSufficient":null,"accountablePerson":null,"aggregateRating":null,"alternativeHeadline":null,"associatedMedia":null,"audience":null,"award":null,"character":null,"comment":null,"commentCount":null,"contentLocation":null,"contentReferenceTime":null,"copyrightYear":null,"discussionUrl":null,"editor":null,"educationalAlignment":null,"educationalUse":null,"encoding":null,"exampleOfWork":null,"hasPart":null,"headline":null,"interactionStatistic":null,"interactivityType":null,"isAccessibleForFree":null,"isFamilyFriendly":null,"isPartOf":null,"keywords":null,"learningResourceType":null,"locationCreated":null,"mainEntity":null,"mentions":null,"offers":null,"publication":null,"publisherImprint":null,"recordedAt":null,"releasedEvent":null,"review":null,"sourceOrganization":null,"spatial":null,"spatialCoverage":null,"text":null,"thumbnailUrl":null,"timeRequired":null,"translationOfWork":null,"typicalAgeRange":null,"workExample":null,"workTranslation":null,"associatedArticle":null,"bitrate":null,"contentSize":null,"contentUrl":null,"duration":null,"embedUrl":null,"encodesCreativeWork":null,"endTime":null,"playerType":null,"productionCompany":null,"regionsAllowed":null,"startTime":null,"representativeOfPage":null,"thumbnail":null},"makesOffer":null,"naics":null,"numberOfEmployees":null,"parentOrganization":null,"review":null,"seeks":null,"slogan":null,"subOrganization":null,"taxID":null,"telephone":null,"vatID":null},"publisherImprint":null,"recordedAt":null,"releasedEvent":null,"review":null,"sourceOrganization":null,"spatial":null,"spatialCoverage":null,"text":null,"thumbnailUrl":null,"timeRequired":null,"translationOfWork":null,"typicalAgeRange":null,"workExample":null,"workTranslation":null,"articleBody":null,"articleSection":null,"pagination":null,"wordCount":null,"dateline":null,"printColumn":null,"printEdition":null,"printPage":null,"printSection":null}
+            </script>
+<script type="application/ld+json">
+                {"@context":"http://schema.org","@type":"QAPage","name":null,"description":null,"additionalType":null,"alternateName":null,"disambiguatingDescription":null,"potentialAction":null,"sameAs":null,"url":null,"about":null,"accessibilityAPI":null,"accessibilityControl":null,"accessibilityFeature":null,"accessibilityHazard":null,"accessibilitySummary":null,"accessMode":null,"accessModeSufficient":null,"accountablePerson":null,"aggregateRating":null,"alternativeHeadline":null,"associatedMedia":null,"audience":null,"award":null,"character":null,"comment":null,"commentCount":null,"contentLocation":null,"contentReferenceTime":null,"copyrightYear":null,"discussionUrl":null,"editor":null,"educationalAlignment":null,"educationalUse":null,"encoding":null,"exampleOfWork":null,"hasPart":null,"headline":null,"interactionStatistic":null,"interactivityType":null,"isAccessibleForFree":null,"isFamilyFriendly":null,"isPartOf":null,"keywords":null,"learningResourceType":null,"locationCreated":null,"mainEntity":{"@context":"http://schema.org","@type":"Question","name":"What is Shahi paneer?","description":null,"additionalType":null,"alternateName":null,"disambiguatingDescription":null,"potentialAction":null,"sameAs":null,"url":null,"about":null,"accessibilityAPI":null,"accessibilityControl":null,"accessibilityFeature":null,"accessibilityHazard":null,"accessibilitySummary":null,"accessMode":null,"accessModeSufficient":null,"accountablePerson":null,"aggregateRating":null,"alternativeHeadline":null,"associatedMedia":null,"audience":null,"author":{"@context":"http://schema.org","@type":"Person","name":"TasteAtlas","description":null,"additionalType":null,"alternateName":null,"disambiguatingDescription":null,"potentialAction":null,"sameAs":null,"url":null,"additionalName":null,"affiliation":null,"award":null,"birthPlace":null,"children":null,"contactPoint":null,"deathPlace":null,"duns":null,"email":null,"familyName":null,"faxNumber":null,"follows":null,"givenName":null,"globalLocationNumber":null,"hasOccupation":null,"hasOfferCatalog":null,"hasPOS":null,"honorificPrefix":null,"honorificSuffix":null,"isicV4":null,"jobTitle":null,"knows":null,"makesOffer":null,"naics":null,"nationality":null,"parent":null,"performerIn":null,"relatedTo":null,"seeks":null,"sibling":null,"spouse":null,"taxID":null,"telephone":null,"vatID":null,"weight":null,"worksFor":null},"award":null,"character":null,"comment":null,"commentCount":null,"contentLocation":null,"contentReferenceTime":null,"copyrightYear":null,"dateCreated":"2016-05-04","discussionUrl":null,"editor":null,"educationalAlignment":null,"educationalUse":null,"encoding":null,"exampleOfWork":null,"hasPart":null,"headline":null,"interactionStatistic":null,"interactivityType":null,"isAccessibleForFree":null,"isFamilyFriendly":null,"isPartOf":null,"keywords":null,"learningResourceType":null,"locationCreated":null,"mainEntity":null,"mentions":null,"offers":null,"publication":null,"publisherImprint":null,"recordedAt":null,"releasedEvent":null,"review":null,"sourceOrganization":null,"spatial":null,"spatialCoverage":null,"text":"What is Shahi paneer?","thumbnailUrl":null,"timeRequired":null,"translationOfWork":null,"typicalAgeRange":null,"workExample":null,"workTranslation":null,"acceptedAnswer":{"@context":"http://schema.org","@type":"Answer","name":null,"description":null,"additionalType":null,"alternateName":null,"disambiguatingDescription":null,"potentialAction":null,"sameAs":null,"url":"https://www.tasteatlas.com/shahi-paneer","about":null,"accessibilityAPI":null,"accessibilityControl":null,"accessibilityFeature":null,"accessibilityHazard":null,"accessibilitySummary":null,"accessMode":null,"accessModeSufficient":null,"accountablePerson":null,"aggregateRating":null,"alternativeHeadline":null,"associatedMedia":null,"audience":null,"author":{"@context":"http://schema.org","@type":"Person","name":"TasteAtlas","description":null,"additionalType":null,"alternateName":null,"disambiguatingDescription":null,"potentialAction":null,"sameAs":null,"url":null,"additionalName":null,"affiliation":null,"award":null,"birthPlace":null,"children":null,"contactPoint":null,"deathPlace":null,"duns":null,"email":null,"familyName":null,"faxNumber":null,"follows":null,"givenName":null,"globalLocationNumber":null,"hasOccupation":null,"hasOfferCatalog":null,"hasPOS":null,"honorificPrefix":null,"honorificSuffix":null,"isicV4":null,"jobTitle":null,"knows":null,"makesOffer":null,"naics":null,"nationality":null,"parent":null,"performerIn":null,"relatedTo":null,"seeks":null,"sibling":null,"spouse":null,"taxID":null,"telephone":null,"vatID":null,"weight":null,"worksFor":null},"award":null,"character":null,"comment":null,"commentCount":null,"contentLocation":null,"contentReferenceTime":null,"copyrightYear":null,"dateCreated":"2016-05-04","discussionUrl":null,"editor":null,"educationalAlignment":null,"educationalUse":null,"encoding":null,"exampleOfWork":null,"hasPart":null,"headline":null,"interactionStatistic":null,"interactivityType":null,"isAccessibleForFree":null,"isFamilyFriendly":null,"isPartOf":null,"keywords":null,"learningResourceType":null,"locationCreated":null,"mainEntity":null,"mentions":null,"offers":null,"publication":null,"publisherImprint":null,"recordedAt":null,"releasedEvent":null,"review":null,"sourceOrganization":null,"spatial":null,"spatialCoverage":null,"text":"<p>Originating from India's Moghul cuisine, shahi paneer is a cheese curry that is prepared with paneer cheese, onions, almond paste, and a rich, spicy tomato-cream sauce. The dish is typically accompanied by Indian breads such as naan, roti, or puri. Often referred to as <em>the Royal paneer</em>, traditionally, it is prepared during special occasions and festivities as a vegetarian main course. Rich, hearty, and nutritious, shahi paneer is commonly garnished with coriander leaves.</p>","thumbnailUrl":null,"timeRequired":null,"translationOfWork":null,"typicalAgeRange":null,"workExample":null,"workTranslation":null,"downvoteCount":null,"parentItem":null,"upvoteCount":91},"answerCount":1,"downvoteCount":null,"upvoteCount":null},"mentions":null,"offers":null,"publication":null,"publisherImprint":null,"recordedAt":null,"releasedEvent":null,"review":null,"sourceOrganization":null,"spatial":null,"spatialCoverage":null,"text":null,"thumbnailUrl":null,"timeRequired":null,"translationOfWork":null,"typicalAgeRange":null,"workExample":null,"workTranslation":null,"mainContentOfPage":null,"primaryImageOfPage":null,"relatedLink":null,"significantLink":null,"specialty":null}
+            </script>
+<link rel="preload" as="image" imagesrcset="https://cdn.tasteatlas.com/images/dishes/ceff65c140064d6285fc3814534a349b.jpg?mw=1300">
+<link href="/Content/Styles/font-awesome.min.css" rel="stylesheet" />
+<link href="/Content/Styles/swiper.min.css" rel="stylesheet" />
+<link href="/Content/layout/style.css?v=89bce326-9c03-4a7d-8582-9bd4c1b385b6" rel="stylesheet" />
+<script src="/bundles/ngappDesktop?v=gzPznoTRQTG5aAxKAqIgBr_unyPfoY8tX0aRYwkfypc1"></script>
+</head>
+<body ng-app="tasteatlas">
+<!--[if lt IE 8]>
+        <p class="browsehappy">
+            You are using an <strong>outdated</strong> browser.
+            Please <a href="http://www.browsehappy.com/">upgrade your browser</a> to improve your experience.
+        </p>
+    <![endif]-->
+<ta2-entity-comment></ta2-entity-comment>
+<ta-home-loader></ta-home-loader>
+
+<div ta-google-ad id="TA_special_ad" name="/21703950087/TA_special"></div>
+<div class="desktop-viewport">
+<div class="popup-overlay"></div>
+
+<ta-header-desktop></ta-header-desktop>
+<div id="bodyDiv">
+<script>
+        window.ta = window.ta || {};
+        window.ta.details = {"EntityId":1007,"EntityUrlLink":"shahi-paneer","EntityType":1,"PreviewImage":{"Image":"/images/dishes/ceff65c140064d6285fc3814534a349b.jpg","ImageSource":"shutterstock","ImageAuthorUrl":null,"IsInstagramSourced":false},"Images":[{"Image":"/images/dishes/ceff65c140064d6285fc3814534a349b.jpg","ImageSource":"shutterstock","ImageAuthorUrl":null,"IsInstagramSourced":false},{"Image":"/Images/Dishes/56ff328667ef4dc6a883398c519b9622.jpg","ImageSource":"shutterstock","ImageAuthorUrl":null,"IsInstagramSourced":false},{"Image":"/images/dishes/b3973ad2e83f4e5b8da5770c7c293725.jpg","ImageSource":"shutterstock","ImageAuthorUrl":null,"IsInstagramSourced":false},{"Image":"/Images/Dishes/d7b9612bf7924507a791c1cb2bd98f38.jpg","ImageSource":"shutterstock","ImageAuthorUrl":null,"IsInstagramSourced":false}],"MobileImages":[{"Image":"/images/dishes/db783977e5654e9abfb2f19b9d00f439.jpg","ImageSource":"kakkaresha","ImageAuthorUrl":"https://www.instagram.com/kakkaresha/","IsInstagramSourced":true},{"Image":"/images/dishes/ed88d33cfcbe452193218c7e7f02a433.jpg","ImageSource":"the.fernwehradhuni.cookbook","ImageAuthorUrl":"https://www.instagram.com/the.fernwehradhuni.cookbook/","IsInstagramSourced":true},{"Image":"/images/dishes/1078d800ff3a43f4a88b1c71ba79e107.jpg","ImageSource":"tasteofindia_ca","ImageAuthorUrl":"https://www.instagram.com/tasteofindia_ca/","IsInstagramSourced":true}],"Region":{"Current":{"RegionId":1849,"Prefix":null,"Name":"Punjab","MaterializedPath":"/1/88/14590/1849/","Adjective":"Punjabi","RegionLevel":5,"EmblemImage":"/images/emblems/962fcd5b43cc410995763b1e14141c6c.png","UrlLink":"punjab","CoverImage":{"Image":"/Images/Regions/a767f65eead24f06931cafd7a7a92b92.jpg","Source":"shutterstock","SourceUrl":null},"IsContinent":false},"Parent":{"RegionId":88,"Prefix":null,"Name":"India","MaterializedPath":"/1/88/","Adjective":"Indian","RegionLevel":7,"EmblemImage":"/Images/Emblems/0c8c5caad37e4c29841154516f356733.png","UrlLink":"india","CoverImage":{"Image":"/Images/Regions/fcb1a340001f41c3a9545519d8024c28.jpg","Source":"shutterstock","SourceUrl":null},"IsContinent":false}},"AdditionalRegions":[],"Group":{"Id":13,"UrlLink":"Stews","Name":"Stew","PluralName":"Stews","MaterializedPath":"/13/"},"AdditionalGroups":[{"Id":89,"UrlLink":"cheese-dishes","Name":"Cheese Dish","PluralName":"Cheese Dishes","MaterializedPath":"/89/"},{"Id":109,"UrlLink":"vegetarian-dishes","Name":"Vegetarian Dish","PluralName":"Vegetarian Dishes","MaterializedPath":"/109/"}],"Name":"Shahi paneer","EnglishName":null,"OtherNames":"Paneer makhani, Royal Paneer","Description":"<p>Originating from India's Moghul cuisine, shahi paneer is a cheese curry that is prepared with paneer cheese, onions, almond paste, and a rich, spicy tomato-cream sauce. The dish is typically accompanied by Indian breads such as naan, roti, or puri. Often referred to as <em>the Royal paneer</em>, traditionally, it is prepared during special occasions and festivities as a vegetarian main course. Rich, hearty, and nutritious, shahi paneer is commonly garnished with coriander leaves.</p>","FoodIngredients":[{"FoodIngredientId":154537,"Image":{"Image":"/images/dishes/44aec90c2bae4b1f958521e344f811ce.png","ImageSource":null,"ImageAuthorUrl":null,"IsInstagramSourced":false},"Name":"Paneer","UrlLink":"paneer","Order":0,"EntityId":1514,"EntityType":2,"MaterializedPath":"/1514/","EntityGroupMaterializedPath":null,"HostEntityId":null,"HostEntityType":0},{"FoodIngredientId":154532,"Image":{"Image":"/images/ingredientgroups/bf73aa24e1b745988f43388bbdd27322.png","ImageSource":null,"ImageAuthorUrl":null,"IsInstagramSourced":false},"Name":"Onion","UrlLink":"Onions","Order":1,"EntityId":121,"EntityType":9,"MaterializedPath":"/12/630/121/","EntityGroupMaterializedPath":null,"HostEntityId":null,"HostEntityType":0},{"FoodIngredientId":154533,"Image":{"Image":"/images/ingredientgroups/c6587193e7734331b4f484c821ccbede.png","ImageSource":null,"ImageAuthorUrl":null,"IsInstagramSourced":false},"Name":"Almonds","UrlLink":"Almonds","Order":2,"EntityId":143,"EntityType":9,"MaterializedPath":"/19/266/143/","EntityGroupMaterializedPath":null,"HostEntityId":null,"HostEntityType":0},{"FoodIngredientId":154534,"Image":{"Image":"/images/dishes/46bce93d102c432885fd501717da1d6b.png","ImageSource":null,"ImageAuthorUrl":null,"IsInstagramSourced":false},"Name":"Tomato Sauce","UrlLink":"tomato-sauce","Order":3,"EntityId":7936,"EntityType":1,"MaterializedPath":"/7936/","EntityGroupMaterializedPath":null,"HostEntityId":null,"HostEntityType":0},{"FoodIngredientId":154535,"Image":{"Image":"/images/ingredientgroups/6070111d940042ddab6019a86951fc8b.png","ImageSource":null,"ImageAuthorUrl":null,"IsInstagramSourced":false},"Name":"Coriander","UrlLink":"coriander","Order":4,"EntityId":373,"EntityType":9,"MaterializedPath":"/157/241/373/","EntityGroupMaterializedPath":null,"HostEntityId":null,"HostEntityType":0},{"FoodIngredientId":154536,"Image":{"Image":"/images/dishes/82bdd18ff1ed4c748bcaca4f2f6fc5b1.png","ImageSource":null,"ImageAuthorUrl":null,"IsInstagramSourced":false},"Name":"Naan","UrlLink":"naan","Order":5,"EntityId":66,"EntityType":1,"MaterializedPath":"/66/","EntityGroupMaterializedPath":null,"HostEntityId":null,"HostEntityType":0},{"FoodIngredientId":154536,"Image":{"Image":"/images/dishes/0e34b44752ab4db88a5410980889650e.png","ImageSource":null,"ImageAuthorUrl":null,"IsInstagramSourced":false},"Name":"Roti","UrlLink":"roti","Order":5,"EntityId":1325,"EntityType":1,"MaterializedPath":"/1325/","EntityGroupMaterializedPath":null,"HostEntityId":null,"HostEntityType":0},{"FoodIngredientId":154536,"Image":{"Image":"/images/dishes/9e214f706f024edabcd965905f95e514.png","ImageSource":null,"ImageAuthorUrl":null,"IsInstagramSourced":false},"Name":"Puri","UrlLink":"puri","Order":5,"EntityId":1393,"EntityType":1,"MaterializedPath":"/1393/","EntityGroupMaterializedPath":null,"HostEntityId":null,"HostEntityType":0}],"Score":{"Score":8.86,"DividedScore":4.4,"ScoreCount":91,"ValidScoreCount":65},"Certificates":[],"AdditionalRegionText":"","HasRecipes":false,"HasRestaurants":true,"InfographicImage":{"Image":null,"Source":null,"SourceUrl":null},"IsGroup":false};
+</script>
+<ta-dish-desktop-main id="1007" where-to-eat-region-id="null" additional-region-id="null" recipe-variation-id="null" name="null" active-page="&quot;&quot;">
+</ta-dish-desktop-main>
+</div>
+
+<div id="entity-restaurant-modal"></div>
+<ta-back-to-top></ta-back-to-top>
+
+<div id="ta-main-page-loader" class="page-load">
+<i></i>
+</div>
+
+</div>
+
+<div id="fb-root"></div>
+<script>
+    (function (window) {
+        window.__env = window.__env || {};
+        window.__env.enableDebug = false;
+    }(this));
+</script>
+<link href="/Content/Styles/ng-sortable.min.css" rel="stylesheet" />
+<link href="/Content/Styles/ol.css" rel="stylesheet" />
+<script>
+
+    var didScroll;
+    // on scroll, let the interval function know the user has scrolled
+    $(window).scroll(function (event) {
+        didScroll = true;
+    });
+    $(window).load(function () {
+        hasScrolled();
+    })
+    // run hasScrolled() and reset didScroll status
+    setInterval(function () {
+        if (didScroll) {
+            hasScrolled();
+            didScroll = false;
+        }
+    }, 250);
+
+    var lastScrollTop = 0;
+    var delta = 0;
+
+    function hasScrolled() {
+        var headerElem = $('#header-id');
+        var regionFloatingFilter = $('.search-results__floating-filter');//floating filter on regions
+        var hamburgerOpen = document.querySelector('.offcanvas--active');
+        var navbarHeight = headerElem.outerHeight();
+        var st = $(this).scrollTop();
+
+        if (Math.abs(lastScrollTop - st) <= delta)
+            return;
+        
+        // If current position > last position AND scrolled past navbar... // Scroll Down
+        if (st > lastScrollTop && st > navbarHeight && hamburgerOpen == null ) {
+            headerElem.css('top', '-125px'); // If we height login popup will not be displayed
+            regionFloatingFilter.css('top', '');
+        }
+        else { //scrolling up
+
+            if (st + $(window).height() < $(document).height()) {
+                headerElem.css('top', 0);
+                regionFloatingFilter.css('top', navbarHeight + 'px');
+            }
+        }
+
+        lastScrollTop = st;
+    }
+
+
+
+</script>
+<script src="/Scripts/autotrack.js"></script>
+
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-97940741-1', 'auto');
+</script>
+<script>
+            ga('set', 'dimension1', 'Dish');
+        </script>
+<script>
+    ga('send', 'pageview');
+    ga('require', 'urlChangeTracker');
+</script>
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8S6PQJYBCM"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    
+    gtag('config', 'G-8S6PQJYBCM');
+</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"82e93c95ee43f2d2","version":"2023.10.0","token":"3d9eee7291f8462ebb0bba306d13758e"}' crossorigin="anonymous"></script>
+</body>
+</html>

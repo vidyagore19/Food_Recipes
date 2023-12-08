@@ -1,0 +1,205 @@
+<!doctype html>
+<html>
+<head>
+
+<link rel="preload" as="script">
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit"></script>
+
+
+<link rel="preload" href="/Content/Styles/font-awesome.min.css" as="style">
+<link rel="preload" href="/Content/Styles/swiper.min.css" as="style">
+<link rel="preload" href="/Content/layout/style.css?v=89bce326-9c03-4a7d-8582-9bd4c1b385b6" as="style">
+
+
+<link rel="preload" as="font" href="/Content/layout-shared/layout/fonts/muli/Muli-Bold.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="/Content/layout-shared/layout/fonts/muli/Muli-Italic.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="/Content/layout-shared/layout/fonts/muli/Muli-Light.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="/Content/layout-shared/layout/fonts/muli/Muli-Regular.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="/Content/layout-shared/layout/fonts/muli/Muli-SemiBold.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="/Content/layout-shared/layout/fonts/playfairdisplay/PlayfairDisplay-Regular.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="/Content/layout-shared/layout/fonts/playfairdisplay/PlayfairDisplay-Italic.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="/Content/layout-shared/layout/fonts/playfairdisplay/PlayfairDisplay-Bold.ttf" type="font/ttf" crossorigin="anonymous">
+
+
+<link rel="preload" as="image" imagesrcset="/Content/layout-shared/layout/icons/ta-logo-tamni.svg">
+<link rel="preload" as="image" imagesrcset="/Content/layout-shared/layout/icons/search-black.svg">
+<link rel="preload" as="image" imagesrcset="/Content/layout-shared/layout/icons/profile.svg">
+
+<base href="/">
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0" />
+
+
+<script type="text/javascript">
+
+            window.gdprAppliesGlobally = false; (function () {
+                function a(e) {
+                    if (!window.frames[e]) {
+                        if (document.body && document.body.firstChild) { var t = document.body; var n = document.createElement("iframe"); n.style.display = "none"; n.name = e; n.title = e; t.insertBefore(n, t.firstChild) }
+                        else { setTimeout(function () { a(e) }, 5) }
+                    }
+                } function e(n, r, o, c, s) {
+                    function e(e, t, n, a) { if (typeof n !== "function") { return } if (!window[r]) { window[r] = [] } var i = false; if (s) { i = s(e, t, n) } if (!i) { window[r].push({ command: e, parameter: t, callback: n, version: a }) } } e.stub = true; function t(a) {
+                        if (!window[n] || window[n].stub !== true) { return } if (!a.data) { return }
+                        var i = typeof a.data === "string"; var e; try { e = i ? JSON.parse(a.data) : a.data } catch (t) { return } if (e[o]) { var r = e[o]; window[n](r.command, r.parameter, function (e, t) { var n = {}; n[c] = { returnValue: e, success: t, callId: r.callId }; a.source.postMessage(i ? JSON.stringify(n) : n, "*") }, r.version) }
+                    }
+                    if (typeof window[n] !== "function") { window[n] = e; if (window.addEventListener) { window.addEventListener("message", t, false) } else { window.attachEvent("onmessage", t) } }
+                } e("__tcfapi", "__tcfapiBuffer", "__tcfapiCall", "__tcfapiReturn"); a("__tcfapiLocator"); (function (e, tgt) {
+                    var t = document.createElement("script"); t.id = "spcloader"; t.type = "text/javascript"; t.async = true; t.src = "https://sdk.privacy-center.org/" + e + "/loader.js?target_type=notice&target=" + tgt; t.charset = "utf-8"; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(t, n)
+                })("02757520-ed8b-4c54-8bfd-4a5f5548de98", "xBkfx6iZ")
+            })();</script>
+
+
+<meta property="fb:app_id" content="1827944954195705" />
+<meta name="robots" content="max-image-preview:large">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<title>Dal Tadka | Traditional Stew From Northern India, India | TasteAtlas</title>
+<meta property="og:title" content="Dal tadka | Traditional Stew From Northern India | TasteAtlas">
+<meta name="twitter:title" content="Dal tadka | Traditional Stew From Northern India | TasteAtlas" />
+<link rel="canonical" href="https://www.tasteatlas.com/dal-tadka" />
+<meta property="og:image" content="https://cdn.tasteatlas.com/images/dishes/617f5d93003c43a992244eff2dd52b6d.jpg?m=facebook">
+<meta name="twitter:image" content="https://cdn.tasteatlas.com/images/dishes/617f5d93003c43a992244eff2dd52b6d.jpg?m=facebook" />
+<meta property="og:image:width" content="0">
+<meta property="og:image:height" content="0">
+<meta property="og:description" content=" Dal tadka or tadkewali dal is a traditional lentil-based dish originating from the northern parts of India. Although there are variations, the dish is usually prepared with toor dal (split yellow pigeon peas), garlic, ginger, onions, tomatoes, garam masala, chili peppers, ghee, cumin, coriander, turmeric, red chili powder, and fenugreek leaves">
+<meta name="twitter:description" content=" Dal tadka or tadkewali dal is a traditional lentil-based dish originating from the northern parts of India. Although there are variations, the dish is usually prepared with toor dal (split yellow pigeon peas), garlic, ginger, onions, tomatoes, garam masala, chili peppers, ghee, cumin, coriander, turmeric, red chili powder, and fenugreek leaves" />
+<meta name="description" content="Dal tadka or tadkewali dal is a traditional lentil-based dish originating from the northern parts of India. Although there are variations, the dish is usually prepared with toor dal (split yellow pigeon peas), garlic, ginger, onions, tomatoes, garam masala, chili peppers, ghee, cumin, coriander, turmeric, red chili powder, and fenugreek leaves">
+<script type="application/ld+json">
+                {"@context":"http://schema.org","@type":"NewsArticle","name":null,"description":null,"additionalType":null,"alternateName":null,"disambiguatingDescription":null,"image":["https://www.tasteatlas.com/images/dishes/617f5d93003c43a992244eff2dd52b6d.jpg","https://www.tasteatlas.com/images/dishes/a4666d242539442ebff0cce588274f48.jpg"],"potentialAction":null,"sameAs":null,"url":null,"about":null,"accessibilityAPI":null,"accessibilityControl":null,"accessibilityFeature":null,"accessibilityHazard":null,"accessibilitySummary":null,"accessMode":null,"accessModeSufficient":null,"accountablePerson":null,"aggregateRating":null,"alternativeHeadline":null,"associatedMedia":null,"audience":null,"author":{"@context":"http://schema.org","@type":"Organization","name":"TasteAtlas","description":null,"additionalType":null,"alternateName":null,"disambiguatingDescription":null,"potentialAction":null,"sameAs":null,"url":null,"aggregateRating":null,"alumni":null,"award":null,"contactPoint":null,"department":null,"duns":null,"email":null,"employee":null,"event":null,"faxNumber":null,"founder":null,"foundingLocation":null,"globalLocationNumber":null,"hasOfferCatalog":null,"hasPOS":null,"isicV4":null,"legalName":null,"leiCode":null,"makesOffer":null,"naics":null,"numberOfEmployees":null,"parentOrganization":null,"review":null,"seeks":null,"slogan":null,"subOrganization":null,"taxID":null,"telephone":null,"vatID":null},"award":null,"character":null,"comment":null,"commentCount":null,"contentLocation":null,"contentReferenceTime":null,"copyrightYear":null,"dateModified":"2021-02-17","datePublished":"2021-02-17","discussionUrl":null,"editor":null,"educationalAlignment":null,"educationalUse":null,"encoding":null,"exampleOfWork":null,"hasPart":null,"headline":"Dal Tadka | Traditional Stew From Northern India, India | TasteAtlas","interactionStatistic":null,"interactivityType":null,"isAccessibleForFree":null,"isFamilyFriendly":null,"isPartOf":null,"keywords":null,"learningResourceType":null,"locationCreated":null,"mainEntity":null,"mentions":null,"offers":null,"publication":null,"publisher":{"@context":"http://schema.org","@type":"Organization","name":"TasteAtlas","description":null,"additionalType":null,"alternateName":null,"disambiguatingDescription":null,"potentialAction":null,"sameAs":null,"url":null,"aggregateRating":null,"alumni":null,"award":null,"contactPoint":null,"department":null,"duns":null,"email":null,"employee":null,"event":null,"faxNumber":null,"founder":null,"foundingLocation":null,"globalLocationNumber":null,"hasOfferCatalog":null,"hasPOS":null,"isicV4":null,"legalName":null,"leiCode":null,"logo":{"@context":"http://schema.org","@type":"ImageObject","name":null,"description":null,"additionalType":null,"alternateName":null,"disambiguatingDescription":null,"potentialAction":null,"sameAs":null,"url":"https://www.tasteatlas.com/content/images/publisher_logo.png","about":null,"accessibilityAPI":null,"accessibilityControl":null,"accessibilityFeature":null,"accessibilityHazard":null,"accessibilitySummary":null,"accessMode":null,"accessModeSufficient":null,"accountablePerson":null,"aggregateRating":null,"alternativeHeadline":null,"associatedMedia":null,"audience":null,"award":null,"character":null,"comment":null,"commentCount":null,"contentLocation":null,"contentReferenceTime":null,"copyrightYear":null,"discussionUrl":null,"editor":null,"educationalAlignment":null,"educationalUse":null,"encoding":null,"exampleOfWork":null,"hasPart":null,"headline":null,"interactionStatistic":null,"interactivityType":null,"isAccessibleForFree":null,"isFamilyFriendly":null,"isPartOf":null,"keywords":null,"learningResourceType":null,"locationCreated":null,"mainEntity":null,"mentions":null,"offers":null,"publication":null,"publisherImprint":null,"recordedAt":null,"releasedEvent":null,"review":null,"sourceOrganization":null,"spatial":null,"spatialCoverage":null,"text":null,"thumbnailUrl":null,"timeRequired":null,"translationOfWork":null,"typicalAgeRange":null,"workExample":null,"workTranslation":null,"associatedArticle":null,"bitrate":null,"contentSize":null,"contentUrl":null,"duration":null,"embedUrl":null,"encodesCreativeWork":null,"endTime":null,"playerType":null,"productionCompany":null,"regionsAllowed":null,"startTime":null,"representativeOfPage":null,"thumbnail":null},"makesOffer":null,"naics":null,"numberOfEmployees":null,"parentOrganization":null,"review":null,"seeks":null,"slogan":null,"subOrganization":null,"taxID":null,"telephone":null,"vatID":null},"publisherImprint":null,"recordedAt":null,"releasedEvent":null,"review":null,"sourceOrganization":null,"spatial":null,"spatialCoverage":null,"text":null,"thumbnailUrl":null,"timeRequired":null,"translationOfWork":null,"typicalAgeRange":null,"workExample":null,"workTranslation":null,"articleBody":null,"articleSection":null,"pagination":null,"wordCount":null,"dateline":null,"printColumn":null,"printEdition":null,"printPage":null,"printSection":null}
+            </script>
+<script type="application/ld+json">
+                {"@context":"http://schema.org","@type":"QAPage","name":null,"description":null,"additionalType":null,"alternateName":null,"disambiguatingDescription":null,"potentialAction":null,"sameAs":null,"url":null,"about":null,"accessibilityAPI":null,"accessibilityControl":null,"accessibilityFeature":null,"accessibilityHazard":null,"accessibilitySummary":null,"accessMode":null,"accessModeSufficient":null,"accountablePerson":null,"aggregateRating":null,"alternativeHeadline":null,"associatedMedia":null,"audience":null,"award":null,"character":null,"comment":null,"commentCount":null,"contentLocation":null,"contentReferenceTime":null,"copyrightYear":null,"discussionUrl":null,"editor":null,"educationalAlignment":null,"educationalUse":null,"encoding":null,"exampleOfWork":null,"hasPart":null,"headline":null,"interactionStatistic":null,"interactivityType":null,"isAccessibleForFree":null,"isFamilyFriendly":null,"isPartOf":null,"keywords":null,"learningResourceType":null,"locationCreated":null,"mainEntity":{"@context":"http://schema.org","@type":"Question","name":"What is Dal tadka?","description":null,"additionalType":null,"alternateName":null,"disambiguatingDescription":null,"potentialAction":null,"sameAs":null,"url":null,"about":null,"accessibilityAPI":null,"accessibilityControl":null,"accessibilityFeature":null,"accessibilityHazard":null,"accessibilitySummary":null,"accessMode":null,"accessModeSufficient":null,"accountablePerson":null,"aggregateRating":null,"alternativeHeadline":null,"associatedMedia":null,"audience":null,"author":{"@context":"http://schema.org","@type":"Person","name":"TasteAtlas","description":null,"additionalType":null,"alternateName":null,"disambiguatingDescription":null,"potentialAction":null,"sameAs":null,"url":null,"additionalName":null,"affiliation":null,"award":null,"birthPlace":null,"children":null,"contactPoint":null,"deathPlace":null,"duns":null,"email":null,"familyName":null,"faxNumber":null,"follows":null,"givenName":null,"globalLocationNumber":null,"hasOccupation":null,"hasOfferCatalog":null,"hasPOS":null,"honorificPrefix":null,"honorificSuffix":null,"isicV4":null,"jobTitle":null,"knows":null,"makesOffer":null,"naics":null,"nationality":null,"parent":null,"performerIn":null,"relatedTo":null,"seeks":null,"sibling":null,"spouse":null,"taxID":null,"telephone":null,"vatID":null,"weight":null,"worksFor":null},"award":null,"character":null,"comment":null,"commentCount":null,"contentLocation":null,"contentReferenceTime":null,"copyrightYear":null,"dateCreated":"2021-02-17","discussionUrl":null,"editor":null,"educationalAlignment":null,"educationalUse":null,"encoding":null,"exampleOfWork":null,"hasPart":null,"headline":null,"interactionStatistic":null,"interactivityType":null,"isAccessibleForFree":null,"isFamilyFriendly":null,"isPartOf":null,"keywords":null,"learningResourceType":null,"locationCreated":null,"mainEntity":null,"mentions":null,"offers":null,"publication":null,"publisherImprint":null,"recordedAt":null,"releasedEvent":null,"review":null,"sourceOrganization":null,"spatial":null,"spatialCoverage":null,"text":"What is Dal tadka?","thumbnailUrl":null,"timeRequired":null,"translationOfWork":null,"typicalAgeRange":null,"workExample":null,"workTranslation":null,"acceptedAnswer":{"@context":"http://schema.org","@type":"Answer","name":null,"description":null,"additionalType":null,"alternateName":null,"disambiguatingDescription":null,"potentialAction":null,"sameAs":null,"url":"https://www.tasteatlas.com/dal-tadka","about":null,"accessibilityAPI":null,"accessibilityControl":null,"accessibilityFeature":null,"accessibilityHazard":null,"accessibilitySummary":null,"accessMode":null,"accessModeSufficient":null,"accountablePerson":null,"aggregateRating":null,"alternativeHeadline":null,"associatedMedia":null,"audience":null,"author":{"@context":"http://schema.org","@type":"Person","name":"TasteAtlas","description":null,"additionalType":null,"alternateName":null,"disambiguatingDescription":null,"potentialAction":null,"sameAs":null,"url":null,"additionalName":null,"affiliation":null,"award":null,"birthPlace":null,"children":null,"contactPoint":null,"deathPlace":null,"duns":null,"email":null,"familyName":null,"faxNumber":null,"follows":null,"givenName":null,"globalLocationNumber":null,"hasOccupation":null,"hasOfferCatalog":null,"hasPOS":null,"honorificPrefix":null,"honorificSuffix":null,"isicV4":null,"jobTitle":null,"knows":null,"makesOffer":null,"naics":null,"nationality":null,"parent":null,"performerIn":null,"relatedTo":null,"seeks":null,"sibling":null,"spouse":null,"taxID":null,"telephone":null,"vatID":null,"weight":null,"worksFor":null},"award":null,"character":null,"comment":null,"commentCount":null,"contentLocation":null,"contentReferenceTime":null,"copyrightYear":null,"dateCreated":"2021-02-17","discussionUrl":null,"editor":null,"educationalAlignment":null,"educationalUse":null,"encoding":null,"exampleOfWork":null,"hasPart":null,"headline":null,"interactionStatistic":null,"interactivityType":null,"isAccessibleForFree":null,"isFamilyFriendly":null,"isPartOf":null,"keywords":null,"learningResourceType":null,"locationCreated":null,"mainEntity":null,"mentions":null,"offers":null,"publication":null,"publisherImprint":null,"recordedAt":null,"releasedEvent":null,"review":null,"sourceOrganization":null,"spatial":null,"spatialCoverage":null,"text":"<p>Dal tadka or tadkewali dal is a traditional lentil-based dish originating from the northern parts of India. Although there are variations, the dish is usually prepared with toor dal (split yellow pigeon peas), garlic, ginger, onions, tomatoes, garam masala, chili peppers, ghee, cumin, coriander, turmeric, red chili powder, and fenugreek leaves. These ingredients are cooked and mixed with tadka (tempering), consisting of spices such as asafoetida, chili peppers, and garlic that are cooked in ghee. Once prepared, dal tadka is usually garnished with coriander leaves and served hot with jeera rice and roti on the side.</p>","thumbnailUrl":null,"timeRequired":null,"translationOfWork":null,"typicalAgeRange":null,"workExample":null,"workTranslation":null,"downvoteCount":null,"parentItem":null,"upvoteCount":45},"answerCount":1,"downvoteCount":null,"upvoteCount":null},"mentions":null,"offers":null,"publication":null,"publisherImprint":null,"recordedAt":null,"releasedEvent":null,"review":null,"sourceOrganization":null,"spatial":null,"spatialCoverage":null,"text":null,"thumbnailUrl":null,"timeRequired":null,"translationOfWork":null,"typicalAgeRange":null,"workExample":null,"workTranslation":null,"mainContentOfPage":null,"primaryImageOfPage":null,"relatedLink":null,"significantLink":null,"specialty":null}
+            </script>
+<link rel="preload" as="image" imagesrcset="https://cdn.tasteatlas.com/images/dishes/617f5d93003c43a992244eff2dd52b6d.jpg?mw=1300">
+<link href="/Content/Styles/font-awesome.min.css" rel="stylesheet" />
+<link href="/Content/Styles/swiper.min.css" rel="stylesheet" />
+<link href="/Content/layout/style.css?v=89bce326-9c03-4a7d-8582-9bd4c1b385b6" rel="stylesheet" />
+<script src="/bundles/ngappDesktop?v=gzPznoTRQTG5aAxKAqIgBr_unyPfoY8tX0aRYwkfypc1"></script>
+</head>
+<body ng-app="tasteatlas">
+<!--[if lt IE 8]>
+        <p class="browsehappy">
+            You are using an <strong>outdated</strong> browser.
+            Please <a href="http://www.browsehappy.com/">upgrade your browser</a> to improve your experience.
+        </p>
+    <![endif]-->
+<ta2-entity-comment></ta2-entity-comment>
+<ta-home-loader></ta-home-loader>
+
+<div ta-google-ad id="TA_special_ad" name="/21703950087/TA_special"></div>
+<div class="desktop-viewport">
+<div class="popup-overlay"></div>
+
+<ta-header-desktop></ta-header-desktop>
+<div id="bodyDiv">
+<script>
+        window.ta = window.ta || {};
+        window.ta.details = {"EntityId":9018,"EntityUrlLink":"dal-tadka","EntityType":1,"PreviewImage":{"Image":"/images/dishes/617f5d93003c43a992244eff2dd52b6d.jpg","ImageSource":"shutterstock","ImageAuthorUrl":null,"IsInstagramSourced":false},"Images":[{"Image":"/images/dishes/617f5d93003c43a992244eff2dd52b6d.jpg","ImageSource":"shutterstock","ImageAuthorUrl":null,"IsInstagramSourced":false},{"Image":"/images/dishes/a4666d242539442ebff0cce588274f48.jpg","ImageSource":"shutterstock","ImageAuthorUrl":null,"IsInstagramSourced":false}],"MobileImages":[],"Region":{"Current":{"RegionId":14590,"Prefix":null,"Name":"Northern India","MaterializedPath":"/1/88/14590/","Adjective":"Northern Indian","RegionLevel":6,"EmblemImage":null,"UrlLink":"northern-india","CoverImage":{"Image":"/images/regions/4eebea4daf3148e09008f4c535107cc2.jpg","Source":"shutterstock","SourceUrl":""},"IsContinent":false},"Parent":{"RegionId":88,"Prefix":null,"Name":"India","MaterializedPath":"/1/88/","Adjective":"Indian","RegionLevel":7,"EmblemImage":"/Images/Emblems/0c8c5caad37e4c29841154516f356733.png","UrlLink":"india","CoverImage":{"Image":"/Images/Regions/fcb1a340001f41c3a9545519d8024c28.jpg","Source":"shutterstock","SourceUrl":null},"IsContinent":false}},"AdditionalRegions":[],"Group":{"Id":13,"UrlLink":"Stews","Name":"Stew","PluralName":"Stews","MaterializedPath":"/13/"},"AdditionalGroups":[{"Id":11,"UrlLink":"Vegetable-dishes","Name":"Vegetable Dish","PluralName":"Vegetable Dishes","MaterializedPath":"/11/"},{"Id":109,"UrlLink":"vegetarian-dishes","Name":"Vegetarian Dish","PluralName":"Vegetarian Dishes","MaterializedPath":"/109/"}],"Name":"Dal tadka","EnglishName":null,"OtherNames":"Tadkewali dal, Tadhkey wali daal","Description":"<p>Dal tadka or tadkewali dal is a traditional lentil-based dish originating from the northern parts of India. Although there are variations, the dish is usually prepared with toor dal (split yellow pigeon peas), garlic, ginger, onions, tomatoes, garam masala, chili peppers, ghee, cumin, coriander, turmeric, red chili powder, and fenugreek leaves. These ingredients are cooked and mixed with tadka (tempering), consisting of spices such as asafoetida, chili peppers, and garlic that are cooked in ghee. Once prepared, dal tadka is usually garnished with coriander leaves and served hot with jeera rice and roti on the side.</p>","FoodIngredients":[{"FoodIngredientId":63778,"Image":{"Image":"/images/ingredientgroups/a8d414b57af64eb99052127a9d556091.png","ImageSource":null,"ImageAuthorUrl":null,"IsInstagramSourced":false},"Name":"Pigeon Peas","UrlLink":"pigeon-peas","Order":0,"EntityId":755,"EntityType":9,"MaterializedPath":"/18/755/","EntityGroupMaterializedPath":null,"HostEntityId":null,"HostEntityType":0},{"FoodIngredientId":63779,"Image":{"Image":"/images/ingredientgroups/bf73aa24e1b745988f43388bbdd27322.png","ImageSource":null,"ImageAuthorUrl":null,"IsInstagramSourced":false},"Name":"Onion","UrlLink":"Onions","Order":1,"EntityId":121,"EntityType":9,"MaterializedPath":"/12/630/121/","EntityGroupMaterializedPath":null,"HostEntityId":null,"HostEntityType":0},{"FoodIngredientId":63780,"Image":{"Image":"/images/ingredientgroups/5863714d901146c094f8228eb52c1fcb.png","ImageSource":null,"ImageAuthorUrl":null,"IsInstagramSourced":false},"Name":"Garlic","UrlLink":"garlic","Order":2,"EntityId":276,"EntityType":9,"MaterializedPath":"/12/630/276/","EntityGroupMaterializedPath":null,"HostEntityId":null,"HostEntityType":0},{"FoodIngredientId":63781,"Image":{"Image":"/images/ingredientgroups/5ca47b7a434e4703b27e14e381f9aaf4.png","ImageSource":null,"ImageAuthorUrl":null,"IsInstagramSourced":false},"Name":"Ginger","UrlLink":"ginger","Order":3,"EntityId":331,"EntityType":9,"MaterializedPath":"/157/242/331/","EntityGroupMaterializedPath":null,"HostEntityId":null,"HostEntityType":0},{"FoodIngredientId":63782,"Image":{"Image":"/images/ingredientgroups/72ddcc5fa8d7439d9f190499aa559132.png","ImageSource":null,"ImageAuthorUrl":null,"IsInstagramSourced":false},"Name":"Tomato","UrlLink":"Tomatoes","Order":4,"EntityId":104,"EntityType":9,"MaterializedPath":"/12/634/104/","EntityGroupMaterializedPath":null,"HostEntityId":null,"HostEntityType":0},{"FoodIngredientId":63783,"Image":{"Image":"/images/dishes/a2fdc55cb6b643c29b66708def1e1c64.png","ImageSource":null,"ImageAuthorUrl":null,"IsInstagramSourced":false},"Name":"Garam Masala","UrlLink":"garam-masala","Order":5,"EntityId":3116,"EntityType":2,"MaterializedPath":"/3116/","EntityGroupMaterializedPath":null,"HostEntityId":null,"HostEntityType":0},{"FoodIngredientId":63784,"Image":{"Image":"/images/ingredientgroups/e02c316cda454fff9c282a56a480b458.png","ImageSource":null,"ImageAuthorUrl":null,"IsInstagramSourced":false},"Name":"Hot Peppers","UrlLink":"Hot-peppers","Order":6,"EntityId":213,"EntityType":9,"MaterializedPath":"/12/634/212/213/","EntityGroupMaterializedPath":null,"HostEntityId":null,"HostEntityType":0},{"FoodIngredientId":63785,"Image":{"Image":"/images/dishes/194229dc935a45ec9d24f94a13bbe3fd.png","ImageSource":null,"ImageAuthorUrl":null,"IsInstagramSourced":false},"Name":"Ghee","UrlLink":"ghee","Order":7,"EntityId":1494,"EntityType":2,"MaterializedPath":"/1494/","EntityGroupMaterializedPath":null,"HostEntityId":null,"HostEntityType":0},{"FoodIngredientId":63786,"Image":{"Image":"/images/ingredientgroups/4249a750e5b54ffb8fb873a2c5463d06.png","ImageSource":null,"ImageAuthorUrl":null,"IsInstagramSourced":false},"Name":"Cumin","UrlLink":"cumin","Order":8,"EntityId":377,"EntityType":9,"MaterializedPath":"/157/242/377/","EntityGroupMaterializedPath":null,"HostEntityId":null,"HostEntityType":0},{"FoodIngredientId":63787,"Image":{"Image":"/images/ingredientgroups/6070111d940042ddab6019a86951fc8b.png","ImageSource":null,"ImageAuthorUrl":null,"IsInstagramSourced":false},"Name":"Coriander","UrlLink":"coriander","Order":9,"EntityId":373,"EntityType":9,"MaterializedPath":"/157/241/373/","EntityGroupMaterializedPath":null,"HostEntityId":null,"HostEntityType":0},{"FoodIngredientId":63788,"Image":{"Image":"/images/ingredientgroups/fcf079fe2d5243b99979db6ebf5210de.png","ImageSource":null,"ImageAuthorUrl":null,"IsInstagramSourced":false},"Name":"Turmeric","UrlLink":"turmeric","Order":10,"EntityId":517,"EntityType":9,"MaterializedPath":"/157/242/517/","EntityGroupMaterializedPath":null,"HostEntityId":null,"HostEntityType":0},{"FoodIngredientId":63789,"Image":{"Image":"/images/ingredientgroups/0bf070508e5f4a41b10e14a0642e59fe.png","ImageSource":null,"ImageAuthorUrl":null,"IsInstagramSourced":false},"Name":"Red Chilli Powder","UrlLink":"red-chilli-powder","Order":11,"EntityId":611,"EntityType":9,"MaterializedPath":"/157/337/611/","EntityGroupMaterializedPath":null,"HostEntityId":null,"HostEntityType":0},{"FoodIngredientId":63790,"Image":{"Image":"/images/ingredientgroups/a2f0007aa54545818af4ab1ebd1ba96e.png","ImageSource":null,"ImageAuthorUrl":null,"IsInstagramSourced":false},"Name":"Fenugreek","UrlLink":"fenugreek","Order":12,"EntityId":614,"EntityType":9,"MaterializedPath":"/157/614/","EntityGroupMaterializedPath":null,"HostEntityId":null,"HostEntityType":0},{"FoodIngredientId":63791,"Image":{"Image":"/images/dishes/6431cfc1f011419d8a3a04d11a5cfa69.png","ImageSource":null,"ImageAuthorUrl":null,"IsInstagramSourced":false},"Name":"Asafoetida","UrlLink":"asafoetida","Order":13,"EntityId":5152,"EntityType":2,"MaterializedPath":"/5152/","EntityGroupMaterializedPath":null,"HostEntityId":null,"HostEntityType":0}],"Score":{"Score":8.86,"DividedScore":4.4,"ScoreCount":45,"ValidScoreCount":35},"Certificates":[],"AdditionalRegionText":"","HasRecipes":false,"HasRestaurants":false,"InfographicImage":{"Image":null,"Source":null,"SourceUrl":null},"IsGroup":false};
+</script>
+<ta-dish-desktop-main id="9018" where-to-eat-region-id="null" additional-region-id="null" recipe-variation-id="null" name="null" active-page="&quot;&quot;">
+</ta-dish-desktop-main>
+</div>
+
+<div id="entity-restaurant-modal"></div>
+<ta-back-to-top></ta-back-to-top>
+
+<div id="ta-main-page-loader" class="page-load">
+<i></i>
+</div>
+
+</div>
+
+<div id="fb-root"></div>
+<script>
+    (function (window) {
+        window.__env = window.__env || {};
+        window.__env.enableDebug = false;
+    }(this));
+</script>
+<link href="/Content/Styles/ng-sortable.min.css" rel="stylesheet" />
+<link href="/Content/Styles/ol.css" rel="stylesheet" />
+<script>
+
+    var didScroll;
+    // on scroll, let the interval function know the user has scrolled
+    $(window).scroll(function (event) {
+        didScroll = true;
+    });
+    $(window).load(function () {
+        hasScrolled();
+    })
+    // run hasScrolled() and reset didScroll status
+    setInterval(function () {
+        if (didScroll) {
+            hasScrolled();
+            didScroll = false;
+        }
+    }, 250);
+
+    var lastScrollTop = 0;
+    var delta = 0;
+
+    function hasScrolled() {
+        var headerElem = $('#header-id');
+        var regionFloatingFilter = $('.search-results__floating-filter');//floating filter on regions
+        var hamburgerOpen = document.querySelector('.offcanvas--active');
+        var navbarHeight = headerElem.outerHeight();
+        var st = $(this).scrollTop();
+
+        if (Math.abs(lastScrollTop - st) <= delta)
+            return;
+        
+        // If current position > last position AND scrolled past navbar... // Scroll Down
+        if (st > lastScrollTop && st > navbarHeight && hamburgerOpen == null ) {
+            headerElem.css('top', '-125px'); // If we height login popup will not be displayed
+            regionFloatingFilter.css('top', '');
+        }
+        else { //scrolling up
+
+            if (st + $(window).height() < $(document).height()) {
+                headerElem.css('top', 0);
+                regionFloatingFilter.css('top', navbarHeight + 'px');
+            }
+        }
+
+        lastScrollTop = st;
+    }
+
+
+
+</script>
+<script src="/Scripts/autotrack.js"></script>
+
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-97940741-1', 'auto');
+</script>
+<script>
+            ga('set', 'dimension1', 'Dish');
+        </script>
+<script>
+    ga('send', 'pageview');
+    ga('require', 'urlChangeTracker');
+</script>
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8S6PQJYBCM"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    
+    gtag('config', 'G-8S6PQJYBCM');
+</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"82e93b9d6a0cf2d2","version":"2023.10.0","token":"3d9eee7291f8462ebb0bba306d13758e"}' crossorigin="anonymous"></script>
+</body>
+</html>
